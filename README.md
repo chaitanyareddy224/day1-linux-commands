@@ -5,7 +5,7 @@
 - cd path
 - cd ../
 - mkdir foldername
-- rm filename
+- rmdir filename
 - touch filename
 - nano filename
 - cat filename
