@@ -1,5 +1,5 @@
 # day1-linux-commands
-## Basic Link COmmands
+## Basic Link Commands
 - pwd
 - ls
 - cd path
